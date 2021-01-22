@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee94a83a-774b-4de7-a9b6-42969ca4819b" name="Default Changelist" comment="团队第一次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ee94a83a-774b-4de7-a9b6-42969ca4819b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611305548234</updated>
       <workItem from="1611305551023" duration="1062000" />
-      <workItem from="1611306830591" duration="917000" />
+      <workItem from="1611306830591" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="团队第一次提交">
       <created>1611305651253</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611307586233</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="团队第一次提交">
+      <created>1611307756675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611307756675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,8 +143,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="团队第一次提交" />
     <MESSAGE value="lbs第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="lbs第一次提交" />
+    <MESSAGE value="团队第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="团队第一次提交" />
   </component>
 </project>
